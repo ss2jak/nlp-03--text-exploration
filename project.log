@@ -75,3 +75,51 @@
 2026-03-25 22:28:40 | INFO | CI | Pipeline executed successfully!
 2026-03-25 22:28:40 | INFO | CI | ========================
 2026-03-25 22:28:40 | INFO | CI | END main()
+2026-03-30 16:56:52 | INFO | CI | === RUN START ===
+2026-03-30 16:56:52 | INFO | CI | project=MODULE 3 NOTEBOOK: CORPUS EXPLORATION
+2026-03-30 16:56:52 | INFO | CI | repo_dir=nlp-03-text-exploration
+2026-03-30 16:56:52 | INFO | CI | python=3.14.0
+2026-03-30 16:56:52 | INFO | CI | os=Darwin 25.1.0
+2026-03-30 16:56:52 | INFO | CI | shell=zsh
+2026-03-30 16:56:52 | INFO | CI | cwd=notebooks
+2026-03-30 16:56:52 | INFO | CI | github_actions=False
+2026-03-30 16:56:52 | INFO | CI | ROOT_PATH = .
+2026-03-30 16:56:52 | INFO | CI | NOTEBOOKS_PATH = notebooks
+2026-03-30 16:56:52 | INFO | CI | SCRIPTS_PATH = scripts
+2026-03-30 16:56:52 | INFO | CI | Logger configured.
+2026-03-30 16:56:52 | INFO | CI | ========================
+2026-03-30 16:56:52 | INFO | CI | Notebook executed successfully!
+2026-03-30 16:56:52 | INFO | CI | ========================
+2026-03-30 16:57:56 | INFO | CI | === RUN START ===
+2026-03-30 16:57:56 | INFO | CI | project=MODULE 3 NOTEBOOK: CORPUS EXPLORATION
+2026-03-30 16:57:56 | INFO | CI | repo_dir=nlp-03-text-exploration
+2026-03-30 16:57:56 | INFO | CI | python=3.14.0
+2026-03-30 16:57:56 | INFO | CI | os=Darwin 25.1.0
+2026-03-30 16:57:56 | INFO | CI | shell=zsh
+2026-03-30 16:57:56 | INFO | CI | cwd=notebooks copy
+2026-03-30 16:57:56 | INFO | CI | github_actions=False
+2026-03-30 16:57:56 | INFO | CI | ROOT_PATH = .
+2026-03-30 16:57:56 | INFO | CI | NOTEBOOKS_PATH = notebooks copy
+2026-03-30 16:57:56 | INFO | CI | SCRIPTS_PATH = scripts
+2026-03-30 16:57:56 | INFO | CI | Logger configured.
+2026-03-30 16:57:56 | INFO | CI | ========================
+2026-03-30 16:57:56 | INFO | CI | Notebook executed successfully!
+2026-03-30 16:57:56 | INFO | CI | ========================
+2026-03-30 17:17:03 | INFO | CI | ========================
+2026-03-30 17:17:03 | INFO | CI | Notebook executed successfully!
+2026-03-30 17:17:03 | INFO | CI | ========================
+2026-03-30 17:22:48 | INFO | CI | === RUN START ===
+2026-03-30 17:22:48 | INFO | CI | project=MODULE 3 NOTEBOOK: CORPUS EXPLORATION
+2026-03-30 17:22:48 | INFO | CI | repo_dir=nlp-03-text-exploration
+2026-03-30 17:22:48 | INFO | CI | python=3.14.0
+2026-03-30 17:22:48 | INFO | CI | os=Darwin 25.1.0
+2026-03-30 17:22:48 | INFO | CI | shell=zsh
+2026-03-30 17:22:48 | INFO | CI | cwd=notebooks copy
+2026-03-30 17:22:48 | INFO | CI | github_actions=False
+2026-03-30 17:22:48 | INFO | CI | ROOT_PATH = .
+2026-03-30 17:22:48 | INFO | CI | NOTEBOOKS_PATH = notebooks copy
+2026-03-30 17:22:48 | INFO | CI | SCRIPTS_PATH = scripts
+2026-03-30 17:22:48 | INFO | CI | Logger configured.
+2026-03-30 17:22:48 | INFO | CI | ========================
+2026-03-30 17:22:48 | INFO | CI | Notebook executed successfully!
+2026-03-30 17:22:48 | INFO | CI | ========================
