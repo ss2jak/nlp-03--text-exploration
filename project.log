@@ -252,3 +252,18 @@
 2026-03-30 22:08:14 | INFO | CI | ========================
 2026-03-30 22:08:14 | INFO | CI | Notebook executed successfully!
 2026-03-30 22:08:14 | INFO | CI | ========================
+2026-06-09 23:07:01 | INFO | CI | === RUN START ===
+2026-06-09 23:07:01 | INFO | CI | project=MODULE 3 NOTEBOOK: CORPUS EXPLORATION
+2026-06-09 23:07:01 | INFO | CI | repo_dir=nlp-03-text-exploration
+2026-06-09 23:07:01 | INFO | CI | python=3.14.0
+2026-06-09 23:07:01 | INFO | CI | os=Darwin 27.0.0
+2026-06-09 23:07:01 | INFO | CI | shell=zsh
+2026-06-09 23:07:01 | INFO | CI | cwd=notebooks copy
+2026-06-09 23:07:01 | INFO | CI | github_actions=False
+2026-06-09 23:07:01 | INFO | CI | ROOT_PATH = .
+2026-06-09 23:07:01 | INFO | CI | NOTEBOOKS_PATH = notebooks copy
+2026-06-09 23:07:01 | INFO | CI | SCRIPTS_PATH = scripts
+2026-06-09 23:07:01 | INFO | CI | Logger configured.
+2026-06-09 23:07:01 | INFO | CI | ========================
+2026-06-09 23:07:01 | INFO | CI | Notebook executed successfully!
+2026-06-09 23:07:01 | INFO | CI | ========================
